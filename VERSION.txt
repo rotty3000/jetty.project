@@ -1,4 +1,8 @@
-jetty-9.4.14-SNAPSHOT
+jetty-9.4.14.v20181113 - 13 November 2018
+ + 3097 Duplicated programmatic listeners
+ + 3103 Http2Connection reports a ByteBuffer leak
+ + Correcting missing jetty-alpn-java-server artifact (in jetty-home and
+   maven central
 
 jetty-9.4.13.v20181111 - 11 November 2018
  + 2191 JPMS Support
